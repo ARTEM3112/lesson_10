@@ -1,0 +1,13 @@
+@import "null.css";
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+}
+.play-button {
+	display: inline-block;
+	width: 84px;
+	height: 84px;
+
+}
+
+
